@@ -1,0 +1,16 @@
+.index-heading1 {
+    font-size: 120px;
+    color: white;
+    text-align: center;
+}
+
+.index-list {
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+
+* {
+    background-color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
