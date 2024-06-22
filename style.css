@@ -1,11 +1,10 @@
-/* Universal styles */
+/* Index page */
 
-* {
+.index-general {
     background-color: black;
     font-family: fantasy, Impact, sans-serif;
 }
 
-/* Index page */
 .index-heading1 {
     font-size: 120px;
     color: snow;
@@ -18,10 +17,20 @@
     text-align: center;
 }
 
-/* Lasagna page */
-.lasagna-heading1 {
+/* Pages */
+
+.pages-general {
+    background-color: black;
+    color: white;
+}
+
+.pages-heading1 {
     text-align: center;
     color: crimson;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 62px;
+}
+
+div {
+    text-align: center ;
 }
